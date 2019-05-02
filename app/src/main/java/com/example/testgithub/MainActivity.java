@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         int i = 1 + 1;
         int beta = 2 + 2;
         int gamma = i + beta;
+        int delta = 2;
     }
 
 }
